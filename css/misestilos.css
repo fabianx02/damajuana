@@ -1,0 +1,75 @@
+h2{
+  text-align: center;
+}
+
+
+h5 {
+  color: black;
+  text-align: center;
+  background-color: #f4f4f4;
+  font-size: 3em;
+}
+
+.container-fluid{
+  padding-top: 1em;
+}
+
+.mision{
+  margin: 3em 1em;
+}
+
+.vision{
+  margin: 3em 1em;
+}
+
+
+body{
+  font-family: "Kalam", cursive;
+  background-color: #f4f4f4;
+}
+
+nav {
+  font-size: 1.5em;
+  text-align: end;
+}
+
+nav a {
+  text-decoration: none;
+  color:inherit;
+}
+
+.footer{
+  margin-top: 2em;
+  text-align: center;
+}
+
+.card_img {
+  height: 500px;
+  width: 400px;
+  background-size: contain;
+  border-radius: .5em;
+}
+
+.img_1 {
+  background: url("/Proyecto-SASS/img/catalogo/araña.jpg") no-repeat 50%;
+}
+.img_2 {
+  background: url("/Proyecto-SASS/img/catalogo/beagle.jpg") no-repeat 50%;
+}
+.img_3 {
+  background: url("/Proyecto-SASS/img/catalogo/chobits.jpg") no-repeat 50%;
+}
+.img_4 {
+  background: url("/Proyecto-SASS/img/catalogo/kygo.jpg") no-repeat 50%;
+}
+.img_5 {
+  background: url("/Proyecto-SASS/img/catalogo/Azul-rojo.JPG") no-repeat 50%;
+}
+.img_6 {
+  background: url("/Proyecto-SASS/img/catalogo/Rojo-azul.jpg") no-repeat 50%;
+}
+
+
+#carouselExampleSlidesOnly{
+  padding-top: 3em;
+}

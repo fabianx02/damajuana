@@ -1,0 +1,102 @@
+@charset "UTF-8";
+header {
+  font-family: "Kalam", cursive;
+  background-color: #f4f4f4;
+}
+header h1 {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+header nav {
+  font-size: 1.5em;
+  text-align: end;
+  margin-top: 1em;
+}
+header nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-family: "Questrial", sans-serif;
+  background-color: #f4f4f4;
+}
+
+h2 {
+  font-family: "Kalam", cursive;
+}
+
+h3 {
+  font-family: "Kalam", cursive;
+}
+
+h5 {
+  color: black;
+  text-align: center;
+  background-color: #f4f4f4;
+  font-size: 3em;
+}
+
+.container-fluid {
+  padding-top: 1em;
+}
+
+.mision,
+.vision {
+  margin: 2em 1em;
+}
+
+.card_img {
+  height: 500px;
+  width: 400px;
+  background-size: contain;
+  border-radius: 0.5em;
+}
+
+.img_1 {
+  background: url("/Proyecto-SASS/img/catalogo/araña.jpg") no-repeat 50%;
+}
+
+.img_2 {
+  background: url("/Proyecto-SASS/img/catalogo/beagle.jpg") no-repeat 50%;
+}
+
+.img_3 {
+  background: url("/Proyecto-SASS/img/catalogo/chobits.jpg") no-repeat 50%;
+}
+
+.img_4 {
+  background: url("/Proyecto-SASS/img/catalogo/kygo.jpg") no-repeat 50%;
+}
+
+.img_5 {
+  background: url("/Proyecto-SASS/img/catalogo/Azul-rojo.JPG") no-repeat 50%;
+}
+
+.img_6 {
+  background: url("/Proyecto-SASS/img/catalogo/Rojo-azul.jpg") no-repeat 50%;
+}
+
+.formulario {
+  margin: 3em 5em;
+}
+.formulario .btn-dark {
+  margin-top: 1em;
+}
+
+.footer {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.redes {
+  color: #262626;
+  font-size: 4em;
+}
+
+.whatsapp {
+  color: #262626;
+  font-size: 3em;
+  position: absolute;
+  right: 1em;
+}

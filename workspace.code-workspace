@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "G:\\laragon\\www"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coder House"
+	}
+}

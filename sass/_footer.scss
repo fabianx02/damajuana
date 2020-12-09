@@ -1,0 +1,15 @@
+.footer {
+    margin-top: 2em;
+    text-align: center;
+  }
+
+.redes{
+    @include misredes;
+}
+
+.whatsapp {
+    color: $colorIconify;
+    font-size: 3em;
+    position: absolute;
+    right: 1em;
+}
